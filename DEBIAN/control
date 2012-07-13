@@ -1,0 +1,11 @@
+Package: raspi-copies-and-fills
+Version: 0.1
+Section: unknown
+Priority: optional
+Architecture: armhf
+Essential: no
+Depends: libc6
+Installed-Size: 10
+Maintainer: Alex Bradbury <asb@asbradbury.org>
+Description: Optimised memcpy/memset implementation for ARM11 used in Raspberry Pi
+Homepage: https://github.com/simonjhall/copies-and-fills
